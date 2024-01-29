@@ -1,0 +1,17 @@
+ToolName=Trend Line 4182
+ShortName=Trend Line
+ToolType=2
+Points={2022.01.21 07:54:00,4470.210000}{2022.01.21 08:06:00,4468.000000}
+MaxPoints=2
+ScreenCoords=0
+TimeFrames=1,2,3,5,15,60,240,1440,10080
+ClosedPolygon=0
+FillInside=1
+LineStyle=0,00CC3299,1
+FillStyle=0,B9FF0000
+FontStyle=Arial,0,7,FF2C2C2C
+Description=Weekly
+Text=
+TextVAlign=0
+TextHAlign=0
+LinkNumber=0
