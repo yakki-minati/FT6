@@ -1,0 +1,23 @@
+<Indicator>
+  <Info>
+    LibName=iSessions
+    ShortName=i-Sessions
+    NameAndParams=i-Sessions (5, 20, 00, 7FFACE87, 02, 05, 879370DB, 08:30, 11, 7A98FB98)
+  </Info>
+  <Options>
+    Levels=
+    NumberOfDays=5
+    AsiaBegin=20
+    AsiaEnd=00
+    AsiaColor=7FFACE87
+    EurBegin=02
+    EurEnd=05
+    EurColor=879370DB
+    USABegin=08:30
+    USAEnd=11
+    USAColor=7A98FB98
+  </Options>
+</Indicator>
+<Timeframes>
+  1 3 5 15
+</Timeframes>

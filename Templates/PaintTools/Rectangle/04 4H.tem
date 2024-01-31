@@ -1,0 +1,17 @@
+ToolName=Rectangle 3577
+ShortName=Rectangle
+ToolType=5
+Points={2022.12.21 12:00:00,11302.000000}{2023.01.15 16:00:00,11302.000000}{2023.01.15 16:00:00,11287.000000}{2022.12.21 12:00:00,11287.000000}
+MaxPoints=4
+ScreenCoords=0
+TimeFrames=1,2,3,5,15,60,240
+ClosedPolygon=1
+FillInside=1
+LineStyle=0,BBFFBF00,1
+FillStyle=0,BBFFBF00
+FontStyle=Arial,0,11,FF2C2C2C
+Description=
+Text=
+TextVAlign=0
+TextHAlign=1
+LinkNumber=0
