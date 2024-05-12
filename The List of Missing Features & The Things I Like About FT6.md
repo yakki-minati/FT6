@@ -41,6 +41,8 @@
 40. Why can't I import Tick Data?
 41. Option to set the close on Daily Chart on diffrent Time Zone and the Intraday the Intraday Charts on diffrent Time Zone.
 42. Why the edit section didn't disapper when I press the "Esc" key.
+43. Why there is No Option to extend Rectangle, like making line a ray.
+44. Option to reopen recently closed Chart.
 
 # What I like about FT6
 1. Keyboard shortcut key to lower or higher the Time Frame.
