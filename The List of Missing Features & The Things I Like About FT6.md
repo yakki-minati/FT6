@@ -43,11 +43,23 @@
 42. Why the edit section didn't disapper when I press the "Esc" key.
 43. Why there is No Option to extend Rectangle, like making line a ray.
 44. Option to reopen recently closed Chart.
+46. Shortcut key to maximize/minimize charts.
+47. Option to Invert Charts.
+48. Pre-Configured Multiwindows.
+49. No Option to Sync TF and Magnification of charts.
+50. A keybord shortcut to extend a rectangle, for example when the rectangle is really small the cursor will more likely be showing the option to extend the retangle from corner so any keyborad shortcut key like holding "Alt" key will autmatically sanp the cursor on the side of the selected rectangle.
+51. Saving drawing on chart, rather than saving charts Templets. So If A chart has drawing, after closing it should still keep its drawing so that chart can be reopened at a later time.
+52. Option to open add any instrument while backtesting, rather than choosing all the instruments when creating a Backtesting project be content with that.
+53. Option for Background colours in Fib.
 
 # What I like about FT6
-1. Keyboard shortcut key to lower or higher the Time Frame.
-2. Sessions Indicator.
-3. Ctrl+Scroll shows more or less candles.
-4. Changing the time frames still keeps the same range. i.e. when i change time frame the candles scrolls in left or get added in left of the chart and it does'nt scrolls me to the begining.
-5. Invert Chart.
-6. End key scrolls to the latest candle and the Home key takes to the last candle.
+01. Keyboard shortcut key to lower or higher the Time Frame.
+02. Sessions Indicator.
+03. Ctrl+Scroll shows more/less data.
+04. Changing the time frames still keeps the same range. i.e. when i change time frame the candles scrolls in left or get added in left of the chart and it does'nt scrolls me to the begining.
+05. Invert Chart.
+06. End key scrolls to the latest candle and the Home key takes to the last candle.
+07. Drawing and Cursor Magnet and able to customize its sencitivity.
+08. List of Objects.
+09. Drawing Templets.
+10. Sync of Charts Data range.
