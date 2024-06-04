@@ -51,6 +51,12 @@
 51. Saving drawing on chart, rather than saving charts Templets. So If A chart has drawing, after closing it should still keep its drawing so that chart can be reopened at a later time.
 52. Option to open add any instrument while backtesting, rather than choosing all the instruments when creating a Backtesting project be content with that.
 53. Option for Background colours in Fib.
+54. Shortcut keys for Time Frame.
+55. Shortcut keys for Drawing Templets, after selecting a drawing and pressing a shorutcut key will change to next or previous Template.(like Change Time Frame with shortcut key to lower or higher the Time Frame)
+56. Option to change transperency of drawings and indicators objects.
+57. Options for Regular Trading Hours, Electronic Trading Hours and Entended Trading Hours.
+58. Rectangles with edit points on coners and sides, and abilty to resize the width of the rectangle from the sides.
+59. Software automitically adapts to the candles data and if it's from futures or any other assets and the tick size is 0.25, the vertical axis adapts to it and shows the number accourding to the tick size.
 
 # What I like about FT6
 01. Keyboard shortcut key to lower or higher the Time Frame.
