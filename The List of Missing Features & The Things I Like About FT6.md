@@ -57,6 +57,8 @@
 57. Options for Regular Trading Hours, Electronic Trading Hours and Entended Trading Hours.
 58. Rectangles with edit points on coners and sides, and abilty to resize the width of the rectangle from the sides.
 59. Software automitically adapts to the candles data and if it's from futures or any other assets and the tick size is 0.25, the vertical axis adapts to it and shows the number accourding to the tick size.
+60. Task Manager to check wich chart or Project is taking how much resourses.
+61. Custom time period in results tab.
 
 # What I like about FT6
 01. Keyboard shortcut key to lower or higher the Time Frame.
