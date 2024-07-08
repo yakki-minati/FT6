@@ -59,6 +59,10 @@
 59. Software automitically adapts to the candles data and if it's from futures or any other assets and the tick size is 0.25, the vertical axis adapts to it and shows the number accourding to the tick size.
 60. Task Manager to check wich chart or Project is taking how much resourses.
 61. Custom time period in results tab.
+62. "Alt+R" to reset the view like in TradingView.
+63. Magnifine Glass to zoom in on a specefic area of trading, and also keybinding for it.
+64. Option to add link to tweets and other things and show the content on chart.
+65. Quick shortcut key for drawing and there temelate. For example "Alt+F" will be shourtcut key for Fibo Retracement and the tempelate will be the last used or the default, And "Alt+F+1" will be for Fibo Retracemnt with the first template.
 
 # What I like about FT6
 01. Keyboard shortcut key to lower or higher the Time Frame.
