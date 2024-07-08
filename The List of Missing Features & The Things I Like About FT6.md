@@ -9,7 +9,6 @@
 08. Auto Save
 09. Hover to Scroll.
 10. Select to edit drawings.
-11. Option to rearrange templets.
 12. Option to add text in Rectangles.
 13. Why the Drawings are still dragable or moveable  when they are hidden. For example, if i draw a rectangle on Daily and its visible on Daily and lower, but not on Monthly and Weekly, the rectangel can still be moved from Weekly or even Monthly.
 14. Option to draw by Dragging and holding, rather than clicking on the first point to start and at the end to stop.
@@ -46,13 +45,12 @@
 46. Shortcut key to maximize/minimize charts.
 47. Option to Invert Charts.
 48. Pre-Configured Multiwindows.
-49. No Option to Sync TF and Magnification of charts.
 50. A keybord shortcut to extend a rectangle, for example when the rectangle is really small the cursor will more likely be showing the option to extend the retangle from corner so any keyborad shortcut key like holding "Alt" key will autmatically sanp the cursor on the side of the selected rectangle.
 51. Saving drawing on chart, rather than saving charts Templets. So If A chart has drawing, after closing it should still keep its drawing so that chart can be reopened at a later time.
 52. Option to open add any instrument while backtesting, rather than choosing all the instruments when creating a Backtesting project be content with that.
 53. Option for Background colours in Fib.
 54. Shortcut keys for Time Frame.
-55. Shortcut keys for Drawing Templets, after selecting a drawing and pressing a shorutcut key will change to next or previous Template.(like Change Time Frame with shortcut key to lower or higher the Time Frame)
+55. Shortcut keys for Drawing Templets, after selecting a drawing and pressing a shorutcut key will change to next or previous Template.(like Change Time Frame with shortcut key to lower or higher the Time Frame) or Quick shortcut key for drawing and there temelate. For example "Alt+F" will be shourtcut key for Fibo Retracement and the tempelate will be the last used or the default, And "Alt+F+1" will be for Fibo Retracemnt with the first template. And also option to rearrange templates.
 56. Option to change transperency of drawings and indicators objects.
 57. Options for Regular Trading Hours, Electronic Trading Hours and Entended Trading Hours.
 58. Rectangles with edit points on coners and sides, and abilty to resize the width of the rectangle from the sides.
@@ -62,14 +60,12 @@
 62. "Alt+R" to reset the view like in TradingView.
 63. Magnifine Glass to zoom in on a specefic area of trading, and also keybinding for it.
 64. Option to add link to tweets and other things and show the content on chart.
-65. Quick shortcut key for drawing and there temelate. For example "Alt+F" will be shourtcut key for Fibo Retracement and the tempelate will be the last used or the default, And "Alt+F+1" will be for Fibo Retracemnt with the first template.
 
 # What I like about FT6
 01. Keyboard shortcut key to lower or higher the Time Frame.
 02. Sessions Indicator.
 03. Ctrl+Scroll shows more/less data.
 04. Changing the time frames still keeps the same range. i.e. when i change time frame the candles scrolls in left or get added in left of the chart and it does'nt scrolls me to the begining.
-05. Invert Chart.
 06. End key scrolls to the latest candle and the Home key takes to the last candle.
 07. Drawing and Cursor Magnet and able to customize its sencitivity.
 08. List of Objects.
